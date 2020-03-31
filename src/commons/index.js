@@ -1,1 +1,1 @@
-common files across the app come here
+//common files across the app come here
